@@ -101,6 +101,10 @@ if __name__ == "__main__":
 ```
 
 **OUTPUT:**
+<img width="1263" height="144" alt="image" src="https://github.com/user-attachments/assets/28d94bc1-7c73-4f0c-ba3a-6e42c5f3f691" />
+
+**RESULT:**
+Thus the code is executed successfully
 
 
 

@@ -41,10 +41,8 @@
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
-<H4>PROGRAM :<H4> 
+**PROGRAM :** 
 ```py
-
-
 import random
 import time
 
@@ -102,7 +100,7 @@ if __name__ == "__main__":
     agent.monitor_health()
 ```
 
-<H5>OUTPUT:<H5>
+**OUTPUT:**
 
 
 
